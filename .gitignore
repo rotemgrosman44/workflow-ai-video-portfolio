@@ -32,5 +32,4 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # OS
-.DS_Store
 Thumbs.db
